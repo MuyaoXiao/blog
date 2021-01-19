@@ -1,9 +1,14 @@
----
-date : 2021-01-19T14:00:00
-author : "XwithoutColor"
-title : "My First Post"
-subtitle : "Suggested 25 words / 125 chars. Used in metadata, and content summaries."
-feature : "<no value>"
----
++++
+title = "New Blog"
+date = "2021-01-19"
+author = "Xwithoutcolor"
+description = ""
+toc = true
+authors = []
+tags = []
+categories = []
+series = []
++++
 
-New blog, new water
+This blog has been upgraded from original 「狸猫的写作场所」.
+
